@@ -55,3 +55,17 @@ The following script-tags must be included
 <script src="https://cdn.jsdelivr.net/npm//vega-lite@2.4.1"></script>
 <script src="https://cdn.jsdelivr.net/npm//vega-embed@3.0"></script>
 ```
+
+  912  ll
+  913  python manage.py runserver
+  914  python manage.py migrate
+  915  python manage.py runserver
+  916  python manage.py migrate
+  917  python manage.py runserver
+  918  python manage.py makemigrates
+  919  python manage.py makemigrations
+  920  python manage.py migrate
+  921  python manage.py runserver
+  922  python manage.py collectstatic
+  923  python manage.py runserver
+  924  history
