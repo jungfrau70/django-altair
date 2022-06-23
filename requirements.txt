@@ -1,0 +1,10 @@
+altair
+django-cors-headers
+django-restframework
+djangorestframework
+markdown       # Markdown support for the browsable API.
+django-filter  # Filtering support
+ipython
+pandas
+psycopg2
+vega_datasets
